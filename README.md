@@ -1,14 +1,27 @@
 <h2> Hello😊, I'm Alaa Khater! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-🔗 &nbsp;**Connect with me**
+<p>✨&nbsp; About Me</p>
+Hello, I'm Engineer Alaa Khater, responsible for designing, developing, and maintaining websites and web applications.
+I have extensive experience in front-end development, having worked on distinguished projects in various fields.
+I believe that every idea deserves to be told in a unique way. Therefore, I always strive to translate your vision and ideas into distinctive digital experiences. I translate each idea into code that brings it to life, making it shine in the digital world.
+Holds:
+
+- Bachelor's degree in Computer Engineering and Automation Systems.
+- Diploma in Front-End & Mobile Cross-Platform Development.
+- I work at the Information Technology Institute (ITI) at the Ministry of Communications and Information Technology.
+- A variety of specialized training courses across educational platforms.
+
+I can help you with:
+- Creating a professional landing page.
+- Creating a professional and modern portfolio website.
+- Designing a website that introduces your services.
+- Converting any design into clear code.
+- Editing various websites and web pages.
+- Designing e-commerce stores.
+  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Connect with me
 <p align="left">
-<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alaa-khater-60b156209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 ### 📫 Like to meet me?
 
